@@ -23,8 +23,8 @@ This is a solution to a self-initiated project inspired by a freeCodeCamp tutori
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jiehlarae/counter.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/jiehlarae/Counter.git)
+- Live Site URL: [Add live site URL here](https://jiehlarae.github.io/Counter/)
 
 ## My process
 
