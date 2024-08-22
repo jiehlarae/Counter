@@ -18,13 +18,13 @@ This is a solution to a self-initiated project inspired by a freeCodeCamp tutori
 
 ### Screenshot
 
-![Counter Screenshot](/Counter/desktopSC.png)
-![Counter Screenshot](/Counter/mobileSC.png)
+![Counter Screenshot](desktopSC.png)
+![Counter Screenshot](mobileSC.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jiehlarae/Counter.git)
-- Live Site URL: [Add live site URL here](https://jiehlarae.github.io/Counter/)
+- Solution URL: [(https://github.com/jiehlarae/Counter.git)]
+- Live Site URL: [(https://jiehlarae.github.io/Counter/)]
 
 ## My process
 
