@@ -56,7 +56,6 @@ I plan to continue focusing on improving my JavaScript skills, especially in man
 ### Author
 
 - *Github:* [@jiehlarae](https://github.com/jiehlarae)
-- *Frontend Mentor:* [@jiehlarae]https://www.frontendmentor.io/profile/jiehlarae
 - *X:* [@JiehlaDacara](https://x.com/JiehlaDacara)
 
 ## Acknowledgments
